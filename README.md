@@ -1,7 +1,14 @@
-# Custom Launcher
-<img src="https://github.com/serzhanto/CustomLauncher/blob/master/app/src/main/java/android/mars/customlauncher/screenshot3.png" alt="Pull" />
-<img src="https://github.com/serzhanto/CustomLauncher/blob/master/app/src/main/java/android/mars/customlauncher/screenshot4.png" alt="Pull" />
+# Crime Intent
+_Список дел для Android. Универсальное приложение для смартфонов и планшетов_
 
-_Простейший кастомный лаунчер. Использовались Fragments, RecyclerView_
+<img src="https://github.com/serzhanto/CrimeIntent/blob/master/screenshot5.png" alt="Pull" />
+<img src="https://github.com/serzhanto/CrimeIntent/blob/master/screenshot6.png" alt="Pull" />
+<img src="https://github.com/serzhanto/CrimeIntent/blob/master/screenshot7.png" alt="Pull" />
+<img src="https://github.com/serzhanto/CrimeIntent/blob/master/screenshot8.png" alt="Pull" />
 
-[Скачать APK] (https://github.com/serzhanto/CustomLauncher/raw/master/app/build/outputs/apk/app-debug.apk)
+
+_Функциональность:_ Создание списка зафиксированных преступлений, с возможностью выбора даты совершения из календаря, подозреваемых из записной книги и возможностью сделать фотографию места преступления, а так же делать рассылку, используя внешние приложения.
+
+_Использовались_ Fragments, RecyclerView, SQLLite.
+
+[Скачать APK] (https://github.com/serzhanto/CrimeIntent/raw/master/app/build/outputs/apk/app-debug.apk)
